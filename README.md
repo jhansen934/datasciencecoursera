@@ -1,2 +1,2 @@
 # datasciencecoursera
-Added this repo to take the first calls in data science specialization on Coursera
+Added this repo to take the first class in data science specialization on Coursera
